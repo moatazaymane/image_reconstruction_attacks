@@ -22,7 +22,7 @@ def attack_classification(
 
     optimizer = optim.Adam(
         [variable], lr=learning_rate, weight_decay=0.01
-    )  # 2*lambda(L2) # L2 - regularization
+    )
 
     for iteration in tqdm(range(iterations), desc="computing"):
 
