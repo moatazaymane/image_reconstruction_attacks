@@ -25,7 +25,7 @@ Having only "black box" access to the machine learning model, an attacker cannot
 Using a shallow machine learning model, the attack appears to be very effective. As described in the article, the images produced become less recognizable for deeper, more complex models.
 
 <div align="center">
-    <img src="fred15/reconstructed_images/reconstruction.png" width=200 height=250 alt="Reconstruction">
+    <img src="fred15/reconstructed_images/reconstruction.png" width=250 height=300 alt="Reconstruction">
     <figcaption>Reconstructed images</figcaption>
 
 </div>
